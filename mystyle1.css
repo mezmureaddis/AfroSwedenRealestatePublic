@@ -1,0 +1,27 @@
+body {
+   font-family: Arial, Sans-serif;
+   background-color :#cce6ff;
+   color: darkblue;
+}
+header {
+   bakground-color: #800055;
+   color: #fff;
+   align: center;
+}
+nav ul {
+    list-style-type: none;
+	margin: 0;
+	padding: 0;
+	overflow: hidden;
+}
+nav li {
+    float: right;
+
+}
+nav li a {
+    display: block;
+	color: white;
+	text-align: center;
+	padding: 10px 10px;
+	text-decoration: none;
+}
